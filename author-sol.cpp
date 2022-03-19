@@ -15,7 +15,7 @@ void perform_test() {
 	
 	// there will be two (2) conditions in order to obtain a palindrome among the balls:
 	
-	// 1st condition = either all of red, green, blue, and white balls are all even or
+	// 1st condition = either all of the red, green, blue, and white balls are all even or
 	// only one (1) of them will be odd in order to form a palindrome
 	
 	// 2nd condition = since it failed the 1st condition, the frequencies of the red, green,
